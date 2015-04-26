@@ -1,4 +1,3 @@
-# docker build -t java8:default .
 FROM ubuntu:14.10
 
 WORKDIR /
