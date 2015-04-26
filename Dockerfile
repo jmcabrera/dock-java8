@@ -10,7 +10,5 @@ RUN apt-get -q update \
         openjdk-8-jre-headless \
  && apt-get clean
 
-ENTRYPOINT ["java"]
-
 MAINTAINER @slowcoding | https://github.com/jmcabrera
 
